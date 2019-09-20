@@ -6,7 +6,7 @@ namespace Calculator.Tests
     /// <summary>
     /// Source: https://andrewlock.net/creating-strongly-typed-xunit-theory-test-data-with-theorydata/
     /// </summary>
-    public class CalculatorTests
+    public class CalculatorServiceTheoryTests
     {
         [Theory]
         [InlineData(0, 0, 0)]
