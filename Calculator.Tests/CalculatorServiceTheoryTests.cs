@@ -5,6 +5,7 @@ using Xunit.Abstractions;
 namespace Calculator.Tests
 {
     /// <summary>
+    /// DEMO: Theory, InlineData, MemberData, ClassData
     /// Source: https://andrewlock.net/creating-strongly-typed-xunit-theory-test-data-with-theorydata/
     /// </summary>
     public class CalculatorServiceTheoryTests
